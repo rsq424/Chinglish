@@ -1,2 +1,56 @@
 [CHINGLISH]2020/05/18 - 16:29:58.456 C:/Users/R/go/src/Chinglish/initialize/router.go:10 ▶ [INFO] router register success
 [CHINGLISH]2020/05/18 - 16:29:58.461 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 17:31:56.354 C:/Users/R/go/src/Chinglish/initialize/router.go:10 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 17:31:56.357 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 17:33:47.068 C:/Users/R/go/src/Chinglish/initialize/router.go:14 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 17:33:47.072 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 17:34:07.184 C:/Users/R/go/src/Chinglish/initialize/router.go:14 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 17:34:07.187 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 17:36:09.563 C:/Users/R/go/src/Chinglish/initialize/router.go:14 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 17:36:09.566 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 17:37:59.328 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 17:38:22.838 C:/Users/R/go/src/Chinglish/initialize/router.go:14 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 17:38:22.841 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 17:38:29.560 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 19:57:24.245 C:/Users/R/go/src/Chinglish/initialize/redis.go:17 ▶ [ERROR] dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+[CHINGLISH]2020/05/18 - 19:57:26.250 C:/Users/R/go/src/Chinglish/initialize/mysql.go:14 ▶ [ERROR] MySQL启动异常 dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+[CHINGLISH]2020/05/18 - 20:40:47.355 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 20:40:49.360 C:/Users/R/go/src/Chinglish/initialize/mysql.go:14 ▶ [ERROR] MySQL启动异常 dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+[CHINGLISH]2020/05/18 - 21:07:20.849 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:07:22.855 C:/Users/R/go/src/Chinglish/initialize/mysql.go:14 ▶ [ERROR] MySQL启动异常 dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+[CHINGLISH]2020/05/18 - 21:15:00.242 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:15:00.248 C:/Users/R/go/src/Chinglish/initialize/router.go:17 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:15:00.250 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:16:45.595 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:16:45.602 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:16:45.603 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:17:35.398 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:17:35.405 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:17:35.407 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:17:35.410 C:/Users/R/go/src/Chinglish/core/server.go:26 ▶ [ERROR] listen tcp :8888: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[CHINGLISH]2020/05/18 - 21:17:49.562 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:17:49.568 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:17:49.569 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:17:49.572 C:/Users/R/go/src/Chinglish/core/server.go:26 ▶ [ERROR] listen tcp :8888: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[CHINGLISH]2020/05/18 - 21:17:59.983 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:17:59.990 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:17:59.991 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:18:51.992 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:11.538 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:19:11.545 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:19:11.546 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:19:21.497 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:19:21.505 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:19:21.506 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:19:29.043 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:30.122 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:30.581 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:30.749 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:30.929 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:31.085 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:31.250 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:19:31.456 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working
+[CHINGLISH]2020/05/18 - 21:21:02.269 C:/Users/R/go/src/Chinglish/initialize/redis.go:19 ▶ [INFO] redis connect ping response: PONG
+[CHINGLISH]2020/05/18 - 21:21:02.275 C:/Users/R/go/src/Chinglish/initialize/router.go:16 ▶ [INFO] router register success
+[CHINGLISH]2020/05/18 - 21:21:02.277 C:/Users/R/go/src/Chinglish/core/server.go:24 ▶ [DEBUG] server run success on  :8888
+[CHINGLISH]2020/05/18 - 21:21:12.365 C:/Users/R/go/src/Chinglish/api/v1/sys_base.go:10 ▶ [INFO] status working

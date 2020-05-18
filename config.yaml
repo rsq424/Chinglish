@@ -10,3 +10,20 @@ log:
     log-file: true
     stdout: 'DEBUG'
     file: 'DEBUG'
+
+# redis configuration
+redis:
+    addr: '127.0.0.1:6379'
+    password: ''
+    db: 0
+
+# mysql connect configuration
+mysql:
+    username: root
+    password: '1234qwer'
+    path: '127.0.0.1:3306'
+    db-name: 'chinglish'
+    config: 'charset=utf8&parseTime=True&loc=Local'
+    max-idle-conns: 10
+    max-open-conns: 10
+    log-mode: false
