@@ -1,0 +1,12 @@
+# Gin-Vue-Admin Global Configuration
+
+# system configuration
+system:
+    addr: 8888
+
+# logger configuration
+log:
+    prefix: '[CHINGLISH]'
+    log-file: true
+    stdout: 'DEBUG'
+    file: 'DEBUG'
